@@ -37,7 +37,7 @@ body {
 
 .cta-button {
     position: absolute;
-    bottom: 7px;
+    bottom: 17px;
     padding: 1rem 1rem;
     font-size: 1.2rem;
     background: linear-gradient(45deg, #c09321, #e3a51e);
